@@ -1,4 +1,4 @@
-\# Graph-Based Path Finder
+# Graph-Based Path Finder
 
 
 
@@ -6,7 +6,7 @@ A Path finder that models and analyzes a weighted directed graph. The project al
 
 
 
-\## Features
+## Features
 
 
 
@@ -28,37 +28,37 @@ A Path finder that models and analyzes a weighted directed graph. The project al
 
 
 
-\## Technologies Used
+## Technologies Used
 
 
 
-\- C++
+- C++
 
-\- Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOP)
 
-\- STL (Vector, Queue, Priority Queue, Unordered Map)
+- STL (Vector, Queue, Priority Queue, Unordered Map)
 
-\- Graph Data Structures and Algorithms
-
-
-
-\## Algorithms Implemented
+- Graph Data Structures and Algorithms
 
 
 
-\- Breadth-First Search (BFS)
-
-\- Depth-First Search (DFS)
-
-\- Dijkstra's Shortest Path Algorithm
-
-\- DFS-Based Cycle Detection
-
-\- Connectivity Analysis
+## Algorithms Implemented
 
 
 
-\## How to Run
+- Breadth-First Search (BFS)
+
+- Depth-First Search (DFS)
+
+- Dijkstra's Shortest Path Algorithm
+
+- DFS-Based Cycle Detection
+
+- Connectivity Analysis
+
+
+
+## How to Run
 
 
 
